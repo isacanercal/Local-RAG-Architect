@@ -33,20 +33,20 @@ An optimized **Retrieval-Augmented Generation (RAG)** system designed for high-p
 1. **Clone the Repository:**
 ```bash
 git clone [https://github.com/isacanercal/Local-RAG-Architect.git](https://github.com/isacanercal/Local-RAG-Architect.git)
-cd Local-RAG-Architect'''
+cd Local-RAG-Architect```
 
 2. **Install Dependencies:**   
 
-'''pip install -r requirements.txt'''
+```pip install -r requirements.txt```
 
 3. **Prepare the Model:**
 
-'''ollama pull llama3.1'''
+```ollama pull llama3.1```
 
  4.**Launch the Architect:**
 
-'''python src/app.py'''
+```python src/app.py```
 
-    Note: You can find a sample technical report in the sample_data/ folder to test the system's indexing capabilities immediately.
+ Note: You can find a sample technical report in the sample_data/ folder to test the system's indexing capabilities immediately.
  
 Developed by İsa Caner Çal | Computer Engineering Student
