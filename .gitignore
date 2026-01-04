@@ -1,0 +1,5 @@
+__pycache__/
+chroma_db/
+vector_db/
+data/*.pdf
+.env
