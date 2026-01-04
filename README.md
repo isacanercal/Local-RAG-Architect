@@ -38,17 +38,20 @@ cd Local-RAG-Architect
 
 2. **Install Dependencies:**   
 
-```pip install -r requirements.txt
+```bash
+pip install -r requirements.txt
 ```
 
 3. **Prepare the Model:**
 
-```ollama pull llama3.1
+```bash
+ollama pull llama3.1
 ```
 
- 4.**Launch the Architect:**
+4.**Launch the Architect:**
 
-```python src/app.py
+```bash
+python src/app.py
 ```
 
  Note: You can find a sample technical report in the sample_data/ folder to test the system's indexing capabilities immediately.
